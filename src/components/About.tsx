@@ -17,7 +17,6 @@ export default function AboutUs() {
   ];
 
     // State to track clicked stat
-    // const [clickedStat, setClickedStat] = useState(null);
   return (
     <section className="bg-[#FAFAF8] py-16 px-6" id="about">
       <div className="container mx-auto text-center">

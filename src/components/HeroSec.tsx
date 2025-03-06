@@ -7,7 +7,7 @@ import Image from 'next/image';
 const HeroSec = () => {
    
   return (
-    <section className='pt-20'>
+    <section className='pt-20 bg-white'>
      
            {/* Hero Section */}
            <motion.section
